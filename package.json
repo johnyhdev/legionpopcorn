@@ -1,25 +1,25 @@
 {
-  "name": "hugolify-template",
+  "name": "legionpopcorn-www",
   "version": "1.17.0",
-  "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "homepage": "https://legionpopcorn.com",
+  "repository": "https://github.com/johnyhdev/legionpopcorn",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/johnyhdev/legionpopcorn/issues"
   },
   "author": {
-    "email": "sebousan@gmail.com",
-    "name": "Sébastien Moulène",
-    "url": "https://www.sebastienmoulene.com/"
+    "email": "johnyhdev@gmail.com",
+    "name": "Johny Huynh",
+    "url": "https://legionpopcorn.com/"
   },
   "license": "MIT",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "@hugolify/prettier-config": "^0.3.1",
-    "autoprefixer": "^10.4.13",
+    "autoprefixer": "^10.5.0",
     "cssnano": "^5.1.14",
     "netlify-plugin-hugo-cache-resources": "^0.2.1",
-    "postcss": "^8.4.21",
-    "postcss-cli": "^10.1.0",
+    "postcss": "^8.5.13",
+    "postcss-cli": "^11.0.1",
     "postcss-sass": "^0.5.0"
   },
   "packageManager": "yarn@1.22.22",

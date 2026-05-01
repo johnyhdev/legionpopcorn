@@ -1,4 +1,4 @@
-module github.com/hugolify/hugolify-template
+module github.com/johnyhdev/legionpopcorn
 
 go 1.21
 

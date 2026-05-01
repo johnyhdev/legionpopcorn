@@ -1,0 +1,13 @@
+links:
+  - title: Home
+    url: /
+  - title: Popcorn World
+    url: /popcorn-world/
+  - title: Contact
+    url: /contact/
+  - title: Legal
+    links:
+      - title: Legal Mentions
+        url: /legal-mentions/
+      - title: Privacy Policy
+        url: /privacy-policy/
