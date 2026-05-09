@@ -9,6 +9,10 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-admin v0.9.2 // indirect
 	github.com/hugolify/hugolify-theme v1.27.14 // indirect
+	github.com/hugolify/hugolify-theme-bootstrap v1.29.0 // indirect
+	github.com/hugolify/hugolify-theme-posts v1.2.8 // indirect
+	github.com/hugolify/hugolify-theme-posts-categories v1.0.15 // indirect
+	github.com/hugolify/hugolify-theme-projects v1.2.4 // indirect
 	github.com/midzer/tobii v3.1.3+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect

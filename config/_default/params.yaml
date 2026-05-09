@@ -1,1 +1,28 @@
 _merge: deep
+
+cookie_banner:
+  enable: true # Enable Cookie banner
+  cookieconsent:
+    enable: true # Use CookieConsent
+    analytics: false
+    functionality: true
+    marketing: true
+    disablePageInteraction: false
+    consentModal:
+      layout: box
+      position: bottom left
+    preferencesModal:
+      layout: box
+      position: bottom left
+
+bootstrap:
+  collapse: true   # default true
+  dropdown: true   # default true
+  modal: true      # default true
+  drawer: true  # default true
+  carousel: false  # default false
+  popover: false   # default false
+  scrollspy: false # default false
+  tab: false       # default false
+  toast: false     # default false
+  tooltip: false   # default false
