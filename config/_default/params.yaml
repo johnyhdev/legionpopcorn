@@ -26,3 +26,29 @@ bootstrap:
   tab: false       # default false
   toast: false     # default false
   tooltip: false   # default false
+
+animation: true # default true, Set true to enable
+carousel: true # default true, Set false to disable
+
+#logo:
+  #header: '/assets/images/logo.svg'
+  #footer: '/assets/images/logo-footer.svg' # default: /assets/images/logo.svg
+
+  #dimension
+image:
+  retina:
+    desktop: false # default false, Set true to enable retina for desktop
+
+  xlarge: '1600x'
+  desktop: '856x481'
+  mobile: '360x200'
+
+thumbnail:
+  desktop: '416x234'
+  desktop_large: '636x358'
+  mobile: '300x169'
+  scrollsnap: '240x103'
+
+hero:
+  cover: '1600x800'
+  cover_mobile: '360x200'

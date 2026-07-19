@@ -10,6 +10,8 @@ github.com/hugolify/hugolify-admin v0.9.2 h1:s1CJnq76M5zlE6vg0wL84OR/TDC5i91DeVI
 github.com/hugolify/hugolify-admin v0.9.2/go.mod h1:qB7ndiuXR6XZu3r9UX3LtTHnrMF98U7vJHg6XXb6NvA=
 github.com/hugolify/hugolify-theme v1.27.14 h1:Anx5iO6IG1ierj0qbc9LJU0RgvGIqY7a1BHr8rl2Oxo=
 github.com/hugolify/hugolify-theme v1.27.14/go.mod h1:Rc64eJSSIWGeU6eHfSzUISNfL9UrJmy3Xs3H05Gz9rQ=
+github.com/hugolify/hugolify-theme-5 v0.0.0-20260212091227-a5cb15a3b251 h1:b7iz/277Jv9cZ9di/0zZHnkaGg9chZbvPl/GFzgCGqc=
+github.com/hugolify/hugolify-theme-5 v0.0.0-20260212091227-a5cb15a3b251/go.mod h1:88si1vh4azOKF4SEgoX6dn2QxTfkjVB7jxT5jAWjOF8=
 github.com/hugolify/hugolify-theme-bootstrap v1.29.0 h1:TQXuaTOpmHL4uCVNsm9Xtbr7ImcBHLeUDSk2uMPEqNQ=
 github.com/hugolify/hugolify-theme-bootstrap v1.29.0/go.mod h1:pkYnlkc5bsrtzdw96AGILn9pfVvyNpw6jhQEbEHEAsM=
 github.com/hugolify/hugolify-theme-posts v1.2.8 h1:E7OQlNyYDY03Pye0unxZ4207lGhhTICICM8g5nRfFs4=

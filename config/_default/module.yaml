@@ -8,6 +8,7 @@ imports:
   - path: github.com/hugolify/hugolify-theme-posts
 
   # Core theme
+  - path: github.com/hugolify/hugolify-theme-5 #theme 5 added
   - path: github.com/hugolify/hugolify-theme
 
   # Styling layer
